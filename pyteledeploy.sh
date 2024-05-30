@@ -27,7 +27,7 @@ echo "
 ░▀█▀▒██▀░█▒░▒██▀░▒░░█▒░░▄▀▄▒▄▀▄░█▀▄▒██▀▒█▀▄
 ░▒█▒░█▄▄▒█▄▄░█▄▄░▀▀▒█▄▄░▀▄▀░█▀█▒█▄▀░█▄▄░█▀▄
                                      v2.0.0
-Repo : https://github.com/SilentDemonSD/pyTele-Loader By SilentDemonSD
+Repo : https://github.com/v15hnuf6n1x/Loader
 Repo URL : $REPO_URL
 Repo Branch : $REPO_BRANCH"
 
