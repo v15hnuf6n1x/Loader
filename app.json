@@ -7,9 +7,8 @@
     "heroku",
     "python"
   ],
-  "website": "https://t.me/FZXParadox",
-  "repository": "https://github.com/SilentDemonSD/pyTele-Loader",
-  "success_url": "https://t.me/FZXParadox",
+  "website": "https://t.me",
+  "repository": "https://github.com/v15hnuf6n1x/Loader/tree/main",
   "env": {
     "REPO_URL": {
       "description": "Deploy Repository URL, add Private Token if Repo is Private"
